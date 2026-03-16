@@ -1,0 +1,677 @@
+(footprint "EP_DEV_PORT"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 0 0)
+		(layer "B.SilkS")
+		(hide yes)
+		(uuid "a1e5bc2a-401b-49b2-8551-5bc1f60e7473")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Value" "DSPICO-DEV-PORT"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "1a1f1376-ee65-470b-bd99-182845c2990a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "9953b1a0-743c-443c-84df-595824230230")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "Description" "DSpico Development port"
+		(at 0 0 0)
+		(layer "B.Fab")
+		(hide yes)
+		(uuid "d6cd46cf-aef0-4068-968a-9c5f517b4593")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+			(justify mirror)
+		)
+	)
+	(property "SUPPLIER 1" "Farnell"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8152e4b0-4d00-4272-ac52-9a57a0b729cc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "LNH"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "91c53202-b0c1-482d-bcc9-612b3cfc83db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER PART NUMBER" "PICO-DEVELOP-PORT"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a844f73c-d9b9-4f02-8999-03c52d7b835e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MOUNT" "Surface Mount"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3adc0fa8-12d0-4b85-a0e3-0b9914100257")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "CONTACT PLATING" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e8e52aa0-5019-49a3-be20-b7ca03802bec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COLOUR" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "916b2322-d9d8-45fb-8807-69734eebef40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "CONTACT MATERIAL" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6e33c6fc-f3b5-413c-b326-65193b775d6d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "HOUSING COLOUR" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "47c8f894-8341-4930-81da-29fbe8af7ce7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MIN OPERATING TEMPERATURE" "-25°C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2188a1bc-dbaf-4e6e-8686-97de2ffd9123")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAX OPERATING TEMPERATURE" "85°C"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c8679479-753f-405d-b420-358424633464")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "NUMBER OF ROWS" "1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e36bbe21-10d1-4391-9740-5c68b37cd2e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PACKAGING" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "119086ef-a9e0-4fb5-b8d8-09ccd8ee3469")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "NUMBER OF POSITIONS" "6"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a09eca88-9b84-49e1-8dcf-0b817ec8beb7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "TERMINATION" "Solder"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c18e45e-4dd6-4f04-9dbb-13691f5ae63e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "FASTENING TYPE" "Ramp"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b77663ec-482d-4062-8491-dd2d66605ebc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "CONNECTOR TYPE" "Outer Shroud Contact"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f80fd0d9-d55d-43ab-9712-d91214a5fbc2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "CURRENT RATING" "?"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c9e8c70f-81bc-41cf-8f2f-84dabcf4c92d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "VOLTAGE RATING (AC)" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6fd49780-afbc-46f8-8028-ca61cfe84c97")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "VOLTAGE RATING" "3.3V"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5d2d7d91-44a4-4198-9838-f42f6cb79834")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "NUMBER OF CONTACTS" "6"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "535bdf3d-f77f-449b-a8ba-d7ece2efa442")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "ORIENTATION" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca2d8d15-1dca-49bb-ae73-37405067bf5b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "GENDER" "Male"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f48ef685-4438-4045-a25f-3e9d8036e1b4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PITCH" "2.54"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "65390858-309f-429b-b046-20b326ed8a0c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "WIRE/CABLE GAUGE" "26AWG"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "291f87a1-ea9c-41b8-beb8-69b9133ef090")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK1URL" "https://datasheet.ciiva.com/25617/0900766b810cef18-25617270.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1f4a08b3-76f4-4e33-bd77-431aa7d8c618")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK1DESCRIPTION" "https://datasheet.ciiva.com/25617/0900766b810cef18-25617270.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c62283d8-bc93-4c9b-a52a-74cfaab8a3cb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK2URL" "https://datasheet.ciiva.com/16379/jstsm03b-ghs-tb-lf-sn-16379590.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "203f2cb2-edb5-43fa-a16e-378476b439ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK2DESCRIPTION" "https://datasheet.ciiva.com/16379/jstsm03b-ghs-tb-lf-sn-16379590.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "56053639-8be2-487b-aba8-38b9b9a5c0d3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK3URL" "https://datasheet.ciiva.com/8052/5438-8052261.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5e56777-116b-4db1-8699-108a134ece36")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "COMPONENTLINK3DESCRIPTION" "https://datasheet.ciiva.com/8052/5438-8052261.pdf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a9496ac6-72f9-4a5e-8cad-dac1bc03701e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_text_box "SWD"
+		(start -0.89972 0.96731)
+		(end 0.30002 3.49995)
+		(margins 0 0 0 0)
+		(angle -90)
+		(layer "F.SilkS")
+		(uuid "5a0cd233-6509-4fa7-9e83-2a13e955d962")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "GND"
+		(start 11.80028 0.96731)
+		(end 13.00002 3.49995)
+		(margins 0 0 0 0)
+		(angle -90)
+		(layer "F.SilkS")
+		(uuid "630c3a09-02d0-4895-b621-2d9018a3818a")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "SWCLK"
+		(start 1.64028 0.9673)
+		(end 2.84002 5.09943)
+		(margins 0 0 0 0)
+		(angle -90)
+		(layer "F.SilkS")
+		(uuid "791186d2-6925-477e-ba73-58bc29c0c153")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "TX0"
+		(start 6.72028 0.96731)
+		(end 7.92002 3.49995)
+		(margins 0 0 0 0)
+		(angle -90)
+		(layer "F.SilkS")
+		(uuid "ceceb25d-bca7-44f9-9578-a3e02930412b")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "RX0"
+		(start 9.26028 0.96731)
+		(end 10.46002 3.49995)
+		(margins 0 0 0 0)
+		(angle -90)
+		(layer "F.SilkS")
+		(uuid "e8952dfa-9d98-4ecf-9661-ed51e038e209")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(fp_text_box "3V3"
+		(start 4.18028 0.96731)
+		(end 5.38002 3.49995)
+		(margins 0 0 0 0)
+		(angle -90)
+		(layer "F.SilkS")
+		(uuid "fe872a03-6d9e-4e08-898a-10eb84d4ee1b")
+		(effects
+			(font
+				(size 0.8 0.8)
+				(thickness 0.2)
+			)
+			(justify left top)
+		)
+		(border no)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+	)
+	(pad "1" smd rect
+		(at 0 0 270)
+		(size 2.1 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -1)
+		(teardrops
+			(best_length_ratio 1)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled no)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "7a76abde-3a3e-4477-ab01-109703e5e20a")
+	)
+	(pad "2" smd rect
+		(at 2.54 0 270)
+		(size 2.1 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -1)
+		(teardrops
+			(best_length_ratio 1)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled no)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "6ba702be-b057-4cfe-b8df-332573291469")
+	)
+	(pad "3" smd rect
+		(at 5.08 0 270)
+		(size 2.1 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -1)
+		(teardrops
+			(best_length_ratio 1)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled no)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "2086f2db-bc6b-4963-839c-73cc0de5bf86")
+	)
+	(pad "4" smd rect
+		(at 7.62 0 270)
+		(size 2.1 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -1)
+		(teardrops
+			(best_length_ratio 1)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled no)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "73da3f1f-d525-4056-a358-824ddadbd0cc")
+	)
+	(pad "5" smd rect
+		(at 10.16 0 270)
+		(size 2.1 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -1)
+		(teardrops
+			(best_length_ratio 1)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled no)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "50548182-a235-4f6a-9b18-62fd90bdef07")
+	)
+	(pad "6" smd rect
+		(at 12.7 0 270)
+		(size 2.1 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_paste_margin -1)
+		(teardrops
+			(best_length_ratio 1)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 2)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled no)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(uuid "da10a940-afa3-4f8b-abdb-e5964f005f26")
+	)
+	(embedded_fonts no)
+)
